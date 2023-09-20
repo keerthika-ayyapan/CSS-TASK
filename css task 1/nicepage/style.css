@@ -1,0 +1,325 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'open sans', sans-serif;
+}
+
+
+.bx-menu {
+    font-size: 40px;
+    margin: 20px;
+    margin-left: 150px;
+}
+
+.latest {
+    color: white;
+    background-color: #7fc0ca;
+    text-align: justify;
+    padding-left: 150px;
+    padding: 100px;
+
+}
+
+.para {
+    font-size: 40px;
+    padding-left: 150pxpx;
+}
+
+.keerthi {
+    padding-left: 150pxpx;
+}
+
+.div1 {
+    background-color: #7fc0ca;
+    font-size: 20px;
+    color: whitesmoke;
+    padding: 70px;
+    padding-left: 150px;
+    line-height: 1.6;
+}
+
+.butten {
+    border: 2px solid white;
+    border-radius: 30px;
+    padding: 20px 40px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.butten:hover {
+    color: white;
+    background-color: rgb(27, 26, 26);
+    border: none;
+}
+
+.para1 {
+    text-align: center;
+    font-weight: lighter;
+    font: size 2.25em;
+    
+
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.125rem;
+}
+
+.layout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.img1 {
+    height: 340px;
+    width: 380px;
+    padding: 5px;
+}
+
+.container {
+    background-color: black;
+}
+
+.class2 {
+    margin: 10px;
+    padding: 10px;
+    color: white;
+    margin-left: 25px;
+
+}
+
+.container-one {
+    display: grid;
+    grid-template-columns: 10fr 10fr 10fr;
+    gap: 40px;
+    padding: 40px;
+    background-color: black;
+    color: white;
+    text-align: justify;
+    padding-bottom: 70px;
+
+}
+
+.card1 {
+    background-color: white;
+    color: black;
+    padding: 30px 30px;
+    line-height: 1.5;
+}
+
+.card1 h3 {
+    color: #7fc0ca;
+    font-weight: lighter;
+}
+
+.fix {
+    font-size: 1.125rem;
+    font-weight: lighter;
+}
+
+.date {
+    color: rgba(0, 0, 0, 0.171);
+}
+
+.card1 h2,
+h3 {
+    font-weight: lighter;
+}
+
+.card3 h2,
+h3 {
+    font-weight: lighter;
+}
+
+.card2 {
+    background-color: white;
+    color: black;
+    padding: 30px 30px;
+    line-height: 1.5;
+}
+
+.card2 h2,
+h3 {
+    font-weight: lighter;
+
+}
+
+.card2 h3 {
+    color: #7fc0ca;
+
+}
+
+.card3 {
+    background-color: white;
+    color: black;
+    padding: 30px 30px;
+    line-height: 1.5;
+    font-weight: lighter;
+
+
+}
+
+.card3 h3 {
+    color: #7fc0ca;
+    font-weight: lighter;
+
+}
+
+.head {
+    text-align: center;
+    font-weight: lighter;
+    font-family: sans-serif;
+    font-size: 30px;
+    word-spacing: 1px;
+}
+
+.date1 {
+    text-align: center;
+
+}
+
+.date2 {
+    text-align: center;
+}
+
+.outerbox {
+    background-color: black;
+    color: whitesmoke;
+    padding: 80px;
+    margin-top: 40px;
+}
+
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.mk {
+    width: 40%;
+    font-weight: 400;
+}
+
+.since {
+    font-size: 2.25rem;
+}
+
+.span {
+    font-size: 16px;
+}
+
+.ADDRESS {
+    font-size: 20px;
+
+}
+
+.hr {
+    width: 400px;
+}
+
+.mk p {
+    margin-top: 100px;
+    font-size: 1.25rem;
+}
+
+.time {
+    width: 30%;
+}
+
+.time1 {
+    font-size: 1.5rem;
+    font-weight: lighter;
+}
+
+.none {
+    font-size: 1.125rem;
+    line-height: 1.5rem;
+}
+
+.tel {
+    font-size: 1.125rem;
+}
+
+.num {
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+
+.mani {
+    margin-top: 180px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.mani2 {
+    width: 30%;
+}
+
+.social {
+    font-size: 1.5rem;
+    padding-top: 10px;
+    font-weight: lighter;
+}
+
+.image4 {
+    margin-top: 150px;
+}
+
+.then {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.outer1 {
+    font-size: 16px;
+
+}
+
+.outer2 {
+    font-size: 16px;
+    margin-top: 80px;
+}
+
+.outer3 {
+    color: #7fc0ca;
+}
+
+.outer3:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+
+
+.bxl-facebook {
+    color: #7cd0dd;
+    font-size: 40px;
+}
+
+.bxl-twitter {
+    color: #7fc0ca;
+    font-size: 40px;
+
+}
+
+.bxl-instagram {
+
+    color: #7fc0ca;
+    font-size: 40px;
+
+}
+
+.they {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.they1 {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
